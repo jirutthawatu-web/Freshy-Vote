@@ -1,0 +1,5 @@
+{
+  "name": "VoteHub: ระบบโหวตออนไลน์",
+  "description": "แอปพลิเคชันสำหรับจัดการและโหวตผู้เข้าประกวด พร้อมระบบ Login และแสดงผล Real-time",
+  "requestFramePermissions": []
+}
